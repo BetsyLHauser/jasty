@@ -1,0 +1,2 @@
+{"ts":1373040283560,"silentsave":true,"restoring":false,"patch":[[{"diffs":[[1,"<h1>My family is super duper adorbs.</h1>\n<% @pictures.each do |p| %>\n<img src = \"<%=p.source %>\">\n<%= p.caption %>\n<% end %>\n\n\n\n"]],"start1":0,"start2":0,"length1":0,"length2":129}]],"length":129}
+{"contributors":[],"silentsave":false,"ts":1373040315716,"patch":[[{"diffs":[[0,"s.</h1>\n"],[1,"<h2>TEST</h2>\n"],[0,"<% @pict"]],"start1":34,"start2":34,"length1":16,"length2":30}]],"length":143,"saved":false}
